@@ -14,6 +14,6 @@
             "email": "bhfqlz@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
