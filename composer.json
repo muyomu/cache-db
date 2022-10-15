@@ -1,0 +1,19 @@
+{
+    "name": "muyomu/cache-db",
+    "description": "The cache database of muyomu web framework",
+    "license": "apache-2.0",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "muyomu\\cachedb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mutian",
+            "email": "bhfqlz@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
