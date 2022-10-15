@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'muyomu\\cachedb\\' => array($baseDir . '/src'),
+    'muyomu\\database\\' => array($baseDir . '/src'),
 );

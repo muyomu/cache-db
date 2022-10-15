@@ -1,8 +1,9 @@
 <?php
 
-namespace muyomu\cachedb\database;
+namespace muyomu\database\database;
 
 class Database
 {
+    public array $database = array();
 
 }

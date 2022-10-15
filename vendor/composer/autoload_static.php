@@ -9,12 +9,12 @@ class ComposerStaticInit1cd602c080cbf63f82b96e2e7380b5eb
     public static $prefixLengthsPsr4 = array (
         'm' => 
         array (
-            'muyomu\\cachedb\\' => 15,
+            'muyomu\\database\\' => 16,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'muyomu\\cachedb\\' => 
+        'muyomu\\database\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

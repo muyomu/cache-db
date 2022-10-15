@@ -1,11 +1,11 @@
 {
-    "name": "muyomu/cache-db",
-    "description": "The cache database of muyomu web framework",
+    "name": "muyomu/database",
+    "description": "The database of muyomu web framework",
     "license": "apache-2.0",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "muyomu\\cachedb\\": "src/"
+            "muyomu\\database\\": "src/"
         }
     },
     "authors": [
